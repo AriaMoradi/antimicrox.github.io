@@ -1,17 +1,6 @@
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
 # AntimicroX website
 This is a vuepress project. checkout vuepress's docs for more info.
 
 
 # License
-
-Copyright (c) 2020 Aria Moradi
-
-AntimicroX Website is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
-You should have received a copy of the license along with this work. If not, see http://creativecommons.org/licenses/by-sa/4.0/.
-
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+This work is licensed under the GPL v.3. Please read the LICENSE text document included with the source code if you would like to read the terms of the license. The license can also be found online at http://www.gnu.org/licenses/gpl.txt
