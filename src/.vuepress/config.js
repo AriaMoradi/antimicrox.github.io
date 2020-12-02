@@ -46,6 +46,7 @@ module.exports = {
                     children: [
                         'installation',
                         'building',
+                        'commandline',
                     ]
                 }
             ],
